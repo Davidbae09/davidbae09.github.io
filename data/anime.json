@@ -1,0 +1,186 @@
+{
+  "anime": [
+    {
+      "title": "Great Pretender",
+      "type": "TV",
+      "episodes": 23,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1418/107954t.jpg",
+      "plot": "A series of unfortunate events has led Makoto \"Edamame\" Edamura to adopt the life of crime—pickpocketing and scamming others for a living. However, after swindling a seemingly clueless tourist, Makoto discovers that he was the one tricked and, to make matters worse, that the police are now after him.\nWhile making his escape, he runs into the tourist once again, who turns out to be a fellow con man named Laurent Thierry, and ends up following him to Los Angeles. In an attempt to defend his self-proclaimed title of \"Japan's Greatest Swindler,\" Makoto challenges his rival to determine the better scammer. Accepting the competition, Laurent drops them off outside a huge mansion and claims that their target will be the biggest mafia boss on the West Coast.\nJumping from city to city, Great Pretender follows the endeavors of Makoto alongside the cunning Laurent and his colorful associates in the world of international high-stakes fraud. Soon, Makoto realizes that he got more than what he bargained for as his self-declared skills are continually put to the test."
+    },
+    {
+      "title": "Shingeki no Kyojin",
+      "type": "TV",
+      "episodes": 25,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/47347t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin OVA",
+      "type": "OVA",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/9/59221.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/9/59221t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin Season 2",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2017
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/84177t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin Season 3",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1173/92110t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "type": "TV",
+      "episodes": 10,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1517/100633t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin Season 3 Specials",
+      "type": "SPECIAL",
+      "episodes": 7,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1909/99638.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1909/99638t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2",
+      "type": "SPECIAL",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2019
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120257-eerywzUJdLzy.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120257-eerywzUJdLzy.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+      "type": "OVA",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2014
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/8/69497.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/8/69497t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: Lost Girls",
+      "type": "OVA",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2017
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/3/89417.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/89417t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: The Final Season",
+      "type": "TV",
+      "episodes": 16,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1000/110531t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+      "type": "SPECIAL",
+      "episodes": 2,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1279/131078t.jpg",
+      "plot":"asd"
+    },
+    {
+      "title": "Shingeki no Kyojin: The Final Season Kanketsu-Hen (Kouhen)",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2023
+      },
+      "picture": "https://media.kitsu.io/anime/47132/poster_image/small-6359717481b255b5249614e996022afd.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/47132/poster_image/tiny-8560390096029ee526cb8efc8be58b44.jpeg",
+      "plot":"ads"
+    },
+    {
+      "title": "Shingeki no Kyojin: The Final Season Part 2",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1948/120625t.jpg",
+      "plot":"asd"
+    }
+  ]
+}
